@@ -18,8 +18,9 @@ Static Website Auto-published on [GitHub Pages](https://docs.github.com/en/pages
 - [Data Science blog (2019)](https://janakiev.com/blog/pelican-jupyter/)
 - [GitHub Pages blog 1 (2017)](https://fedoramagazine.org/make-github-pages-blog-with-pelican/)
 - [GitHub Pages blog 2 (2019)](https://opensource.com/article/19/5/run-your-blog-github-pages-python)
-- [Jupyter with Git](https://towardsdatascience.com/how-to-use-git-github-with-jupyter-notebook-7144d6577b44)
 - [GitHub Pages - project](https://pages.charlesreid1.com/how-do-i-pelican/Hosting/)
+### Other
+- [Jupyter with Git](https://towardsdatascience.com/how-to-use-git-github-with-jupyter-notebook-7144d6577b44)
 
 ### Tools
 - [Nikola](https://getnikola.com/)
@@ -31,6 +32,7 @@ Static Website Auto-published on [GitHub Pages](https://docs.github.com/en/pages
 
 ### Inspiration
 - [The Visual in the Noise](https://visualnoise.substack.com/p/coming-soon)
+- [Dan Nguyen](http://blog.danwin.com/)
 - [Get someone else to do it](https://www.fiverr.com/ahmedshahria320/make-a-personal-website)
 
 ## Hello World!
